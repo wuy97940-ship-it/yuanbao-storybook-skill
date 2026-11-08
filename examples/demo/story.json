@@ -1,0 +1,10 @@
+{
+  "width": 720,
+  "height": 1280,
+  "fps": 6,
+  "page_seconds": 3,
+  "pages": [
+    {"images": ["page1-start.png", "page1-end.png"], "lines": ["A little seed", "wakes in the sun."]},
+    {"images": ["page2-start.png", "page2-end.png"], "lines": ["One small leaf", "says hello."]}
+  ]
+}
